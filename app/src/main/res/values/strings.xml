@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="name_movie">Name Film</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="_80">80</string>
+    <string name="action_adventure_Thiller">Action, Adventure, Thiller</string>
+    <string name="title">Title</string>
+    <string name="audience_score">Audience Score</string>
+    <string name="score_audience">Score Audience</string>
+    <string name="ranting_film">TomatoMeter</string>
+    <string name="ranting">Ranting</string>
+    <string name="runtime">Runtime</string>
+    <string name="in_theaters">In Theaters</string>
+    <string name="_2h_10m">2H 10M</string>
+    <string name="theaters">2 Jan 2019 wide</string>
+    <string name="lorem_ipsum_dolor_sit_amet">Lorem Ipsum Dolor Sit amet</string>
+    <string name="directed_by">  Directed by </string>
+    <string name="overview">Description</string>
+    <string name="poster_depan">Poster_halaman_depan</string>
+    <string name="poster_detail">Poster_halaman_detail</string>
+    <string name="gambar_tomato_meter">Gambar_tomato_meter</string>
+    <string name="kotak_merah">Kotak_merah</string>
+    <string name="gambar_jam">Gambar_jam</string>
+    <string name="gambar_release_date">Gambar_release</string>
+
+    <string-array name="data_title">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avenger Infinity War</item>
+        <item>Venom</item>
+        <item>Bohemian Rapsody</item>
+        <item>Bumblebee</item>
+        <item>Spider-man: Into The Spider-verse</item>
+        <item>Once Upon A Deadpool</item>
+        <item>How To Train Your Dragon : The hidden World</item>
+        <item>Dragon Ball Super : Brolly</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>In A Star Is Born, Bradley Cooper and Lady Gaga fuse their considerable talents to depict the raw and passionate tale of Jack and Ally, two artistic souls coming together, on stage and in life. Theirs is a complex journey through the beauty and the heartbreak of a relationship struggling to survive. In this new take on the iconic love story, four-time Oscar nominee Cooper American Sniper, American Hustle, Silver Linings Playbook, makes his directorial debut, stars alongside multiple award winning, Oscar nominated music superstar Gaga in her first leading role in a major motion picture.</item>
+        <item>From Warner Bros. Pictures and director James Wan comes an action packed adventure that spans the vast, visually breathtaking underwater world of the seven seas, Aquaman, starring Jason Momoa in the title role. The film reveals the origin story of half human, half Atlantean Arthur Curry and takes him on the journey of his lifetime one that will not only force him to face who he really is, but to discover if he is worthy of who he was born to be a king.</item>
+        <item>The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios grand conclusion to twenty-two films, Avengers Endgame.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of an alien symbiote that gives him a violent super alter-ego Venom. Soon, he must rely on his newfound powers to protect the world from a shadowy organisation looking for a symbiote of their own.</item>
+        <item>Bohemian Rhapsody is a foot-stomping celebration of Queen, their music and their extraordinary lead singer Freddie Mercury, who defied stereotypes and shattered convention to become one of the most beloved entertainers on the planet. The film traces the meteoric rise of the band through their iconic songs and revolutionary sound, their near-implosion as Mercurys lifestyle spirals out of control, and their triumphant reunion on the eve of Live Aid, where Mercury, facing a life-threatening illness, leads the band in one of the greatest performances in the history of rock music.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie Hailee Steinfeld, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary, yellow VW bug.</item>
+        <item>Phil Lord and Christopher Miller, The creative minds behind The Lego Movie and 21 Jump Street, bring their unique talents to a fresh vision of a different Spider-Man Universe, with a groundbreaking visual style that is the first of its kind. Spider-Man Into the Spider-Verse introduces Brooklyn teen Miles Morales, and the limitless possibilities of the Spider-Verse, where more than one can wear the mask.</item>
+        <item>Fox has been asking for a PG-13 basically since the start in 2006, Ryan Reynolds told Deadline. Ive said no since 2006. Now, this one time, I said yes on two conditions. First, a portion of the proceeds had to go to charity. Second, I wanted to kidnap Fred Savage. The second condition took some explaining. Fred Savage will join Reynolds in new scenes for ONCE UPON A DEADPOOL in an homage to Savage starring role in the 1987 bedtime-story classic THE PRINCESS BRIDE. Fred remarked, while my participation in this film was anything but voluntary, I am happy to learn that Fudge Cancer.</item>
+        <item>Now chief and ruler of Berk alongside Astrid, Hiccup has created a gloriously chaotic dragon utopia. When the sudden appearance of female Light Fury coincides with the darkest threat their village has ever faced, Hiccup and Toothless must leave the only home they have known and journey to a hidden world thought only to exist in myth. As their true destines are revealed, dragon and rider will fight together-to the very ends of the Earth-to protect everything they grown to treasure.</item>
+        <item>A planet destroyed, a powerful race reduced to nothing. After the devastation of Planet Vegeta, three Saiyans were scattered among the stars, destined for different fates. While two found a home on Earth, the third was raised with a burning desire for vengeance and developed an unbelievable power. And the time for revenge has come. Destinies collide in a battle that will shake the universe to its very core.</item>
+    </string-array>
+
+
+    <array name="data_poster">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+    </array>
+
+    <string-array name="data_tomato_meter">
+        <item>90%</item>
+        <item>65%</item>
+        <item>94%</item>
+        <item>40%</item>
+        <item>61%</item>
+        <item>92%</item>
+        <item>97%</item>
+        <item>54%</item>
+        <item>90%</item>
+        <item>84%</item>
+    </string-array>
+
+    <string-array name="data_audience_score">
+        <item>79%</item>
+        <item>74%</item>
+        <item>90%</item>
+        <item>80%</item>
+        <item>85%</item>
+        <item>74%</item>
+        <item>93%</item>
+        <item>52%</item>
+        <item>87%</item>
+        <item>92%</item>
+    </string-array>
+
+    <string-array name="data_runtime">
+        <item>135 minutes</item>
+        <item>143 minutes</item>
+        <item>182 minutes</item>
+        <item>112 minutes</item>
+        <item>134 minutes</item>
+        <item>119 minutes</item>
+        <item>100 minutes</item>
+        <item>116 minutes</item>
+        <item>110 minutes</item>
+        <item>115 minutes</item>
+    </string-array>
+
+
+
+    <string-array name="data_genres">
+        <item>Drama</item>
+        <item>Action, Adventure, Science Fiction, Fantasy</item>
+        <item>Action, Adventure, Science Fiction, Fantasy</item>
+        <item>Action, Adventure, Drama, Science Fiction, Fantasy</item>
+        <item>Drama</item>
+        <item>Action, Adventure, Science Fiction, Fantasy</item>
+        <item>Action, Adventure, Animation, Science Fiction, Comedy</item>
+        <item>Action, Adventure, Thriller</item>
+        <item>Action, Adventure, Animation, Kids, Family</item>
+        <item>Animation</item>
+    </string-array>
+
+    <string-array name="data_in_theater">
+        <item>Oct 5, 2018  Wide</item>
+        <item>Dec 21, 2018  Wide</item>
+        <item>Apr 26, 2019  Wide</item>
+        <item>Oct 5, 2018  Wide</item>
+        <item>Nov 2, 2018  Wide</item>
+        <item>Dec 21, 2018  Wide</item>
+        <item>Dec 14, 2018  Wide</item>
+        <item>Dec 12, 2018  Limited</item>
+        <item>Feb 22, 2019  Wide</item>
+        <item>Jan 16, 2019  Limited</item>
+    </string-array>
+    
+    <string-array name="data_directer_by">
+        <item>Bradley Cooper</item>
+        <item>James Wan</item>
+        <item>Joe Russo, Anthony Russo</item>
+        <item>Ruben Fleischer</item>
+        <item>Bryan Singer</item>
+        <item>Travis Knight</item>
+        <item>Bob Persichetti, Peter Ramsey, Rodney Rothman</item>
+        <item>David Leitch</item>
+        <item>Dean DeBlois</item>
+        <item>Tatsuya Nagamine</item>
+    </string-array>
+
+</resources>
+
